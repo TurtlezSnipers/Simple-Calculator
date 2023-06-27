@@ -1,0 +1,26 @@
+X:\Visual Studio Code\bin\Debug\netcoreapp3.1\Visual Studio Code.exe
+X:\Visual Studio Code\bin\Debug\netcoreapp3.1\Visual Studio Code.deps.json
+X:\Visual Studio Code\bin\Debug\netcoreapp3.1\Visual Studio Code.runtimeconfig.json
+X:\Visual Studio Code\bin\Debug\netcoreapp3.1\Visual Studio Code.runtimeconfig.dev.json
+X:\Visual Studio Code\bin\Debug\netcoreapp3.1\Visual Studio Code.dll
+X:\Visual Studio Code\bin\Debug\netcoreapp3.1\Visual Studio Code.pdb
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.csprojAssemblyReference.cache
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.AssemblyInfoInputs.cache
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.AssemblyInfo.cs
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.csproj.CoreCompileInputs.cache
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.dll
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.pdb
+X:\Visual Studio Code\obj\Debug\netcoreapp3.1\Visual Studio Code.genruntimeconfig.cache
+X:\Visual Studio Code\First Calculator\bin\Debug\netcoreapp3.1\Visual Studio Code.exe
+X:\Visual Studio Code\First Calculator\bin\Debug\netcoreapp3.1\Visual Studio Code.deps.json
+X:\Visual Studio Code\First Calculator\bin\Debug\netcoreapp3.1\Visual Studio Code.runtimeconfig.json
+X:\Visual Studio Code\First Calculator\bin\Debug\netcoreapp3.1\Visual Studio Code.runtimeconfig.dev.json
+X:\Visual Studio Code\First Calculator\bin\Debug\netcoreapp3.1\Visual Studio Code.dll
+X:\Visual Studio Code\First Calculator\bin\Debug\netcoreapp3.1\Visual Studio Code.pdb
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.csprojAssemblyReference.cache
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.AssemblyInfoInputs.cache
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.AssemblyInfo.cs
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.csproj.CoreCompileInputs.cache
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.dll
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.pdb
+X:\Visual Studio Code\First Calculator\obj\Debug\netcoreapp3.1\Visual Studio Code.genruntimeconfig.cache
